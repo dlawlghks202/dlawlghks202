@@ -29,10 +29,17 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 프로젝트 </h2> <br> 
 
+    <div>
+     <a href="https://github.com/dlawlghks202/Team_E1I4">
+      <img src="https://img.shields.io/badge/컴온-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+     </a>
+    </div>
+    <span>컴알못 맞춤 조립 PC 추천 웹 서비스</span>
+
    <div>
-        <a href="https://github.com/dlawlghks202/Team_E1I4">
-             <img src="https://img.shields.io/badge/동네26-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-        </a>
+    <a href="https://github.com/dlawlghks202/Team_E1I4">
+     <img src="https://img.shields.io/badge/동네26-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+    </a>
    </div>
-<span>서울시(구)민들을 위한 정보 공유 웹 플랫폼</span>
+   <span>서울시(구)민들을 위한 정보 공유 웹 플랫폼</span>
     
