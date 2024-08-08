@@ -33,7 +33,6 @@
         <a href="https://github.com/dlawlghks202/Team_E1I4">
              <img src="https://img.shields.io/badge/동네26-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
         </a>
-        <span>서울시(구)민들을 위한 정보 공유 웹 플랫폼</span>
    </div>
-
+<span>서울시(구)민들을 위한 정보 공유 웹 플랫폼</span>
     
