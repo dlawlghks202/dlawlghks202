@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/badge/컴온-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
      </a>
     </div>
-    <span>컴알못 맞춤 조립 PC 추천 웹 서비스</span>
+    <span>컴알못 맞춤 조립 PC 추천 웹 서비스</span><br/>
 
    <div>
     <a href="https://github.com/dlawlghks202/Team_E1I4">
