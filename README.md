@@ -30,8 +30,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 프로젝트 </h2> <br> 
 
    <div>
-        <img src="https://img.shields.io/badge/Project-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-        <a href="https://github.com/dlawlghks202/Team_E1I4">동네26</a> 
+        <a href="https://github.com/dlawlghks202/Team_E1I4">
+             <img src="https://img.shields.io/badge/Project-2088FF?style=for-the-badge&logo=동네26&logoColor=white">
+        </a>
    </div>
 
     
