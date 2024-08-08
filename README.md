@@ -31,7 +31,7 @@
 
    <div>
         <a href="https://github.com/dlawlghks202/Team_E1I4">
-             <img src="https://img.shields.io/badge/Project-2088FF?style=for-the-badge&logo=동네26&logoColor=white">
+             <img src="https://img.shields.io/badge/동네26-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
         </a>
    </div>
 
